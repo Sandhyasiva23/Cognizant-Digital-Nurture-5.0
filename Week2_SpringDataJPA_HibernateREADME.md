@@ -1,4 +1,4 @@
-# Week 3 - Spring Data JPA & Hibernate
+# Week 2 - Spring Data JPA & Hibernate
 
 This folder contains the Cognizant Digital Nurture Week 2 hands-on exercises.
 
