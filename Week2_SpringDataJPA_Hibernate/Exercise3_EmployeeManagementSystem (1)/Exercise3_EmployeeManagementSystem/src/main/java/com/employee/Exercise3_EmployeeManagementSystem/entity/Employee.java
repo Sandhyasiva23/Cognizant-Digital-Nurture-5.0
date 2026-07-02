@@ -1,4 +1,5 @@
-package com.employee.Exercise2_EmployeeManagementSystem.entity;
+package com.employee.Exercise3_EmployeeManagementSystem.entity;
+
 
 import jakarta.persistence.*;
 
