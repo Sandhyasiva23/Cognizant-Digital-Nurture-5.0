@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<departments>
+
+
+    <department>
+        <id>1</id>
+        <name>IT</name>
+    </department>
+
+
+    <department>
+        <id>2</id>
+        <name>HR</name>
+    </department>
+
+
+    <department>
+        <id>3</id>
+        <name>Finance</name>
+    </department>
+
+
+    <department>
+        <id>4</id>
+        <name>Marketing</name>
+    </department>
+
+
+</departments>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+
+
+    <employee>
+        <id>1</id>
+        <name>John</name>
+        <department>IT</department>
+        <salary>50000</salary>
+        <skills>
+            <skill>Java</skill>
+            <skill>Spring</skill>
+        </skills>
+    </employee>
+
+
+
+    <employee>
+        <id>2</id>
+        <name>Smith</name>
+        <department>HR</department>
+        <salary>45000</salary>
+        <skills>
+            <skill>Communication</skill>
+            <skill>Management</skill>
+        </skills>
+    </employee>
+
+
+
+    <employee>
+        <id>3</id>
+        <name>David</name>
+        <department>Finance</department>
+        <salary>60000</salary>
+        <skills>
+            <skill>Excel</skill>
+            <skill>SQL</skill>
+        </skills>
+    </employee>
+
+
+
+    <employee>
+        <id>4</id>
+        <name>Alex</name>
+        <department>IT</department>
+        <salary>55000</salary>
+        <skills>
+            <skill>Java</skill>
+            <skill>React</skill>
+        </skills>
+    </employee>
+
+
+</employees>
