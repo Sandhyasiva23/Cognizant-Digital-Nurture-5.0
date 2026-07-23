@@ -1,4 +1,4 @@
 package com.example.order_service.service;
 
-public class OrderServic {
+public class OrderService {
 }
